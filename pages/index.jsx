@@ -170,7 +170,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-//                     <a href="https://bit.ly/hoodievierra" className="card">
+
                               <a href="/" className="card">
                       <img src="/widi.jpg" className="card__image" alt="" />
                       <div className="card__overlay">
@@ -187,7 +187,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-//                     <a href="https://bit.ly/lightstickvierra" className="card">
+
                               <a href="/" className="card">
                       <img src="/raka.jpg" className="card__image" alt="" />
                       <div className="card__overlay">
@@ -205,7 +205,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-//                     <a href="https://bit.ly/tshirtvierra" className="card">
+
                                         <a href="/" className="card">
                       <img src="/kevin.jpg" className="card__image" alt="" />
                       <div className="card__overlay">
